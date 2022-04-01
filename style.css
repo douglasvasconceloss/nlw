@@ -129,7 +129,7 @@ main {
 }
 
 #home .image {
-  position: relative;
+  position:relative;
 }
 
 #home .image::before {
@@ -146,6 +146,7 @@ main {
 #home .image img {
   position: relative;
   right: 2.93rem;
+  top: -1.93rem;
 }
 
 #home .image img,
